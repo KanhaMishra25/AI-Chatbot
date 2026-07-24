@@ -1,4 +1,5 @@
 # 🤖 AI Chatbot using Java & OpenRouter API
+<img width="937" height="453" alt="image" src="https://github.com/user-attachments/assets/f0001c3f-5fb0-4d61-bf6e-6fc856f00b2b" />
 
 A simple yet powerful **console-based AI chatbot** built in **Java** that communicates with a Large Language Model (LLM) using the **OpenRouter Chat Completions API**. The project demonstrates how to integrate AI capabilities into a Java application using only the standard Java libraries, without relying on third-party HTTP or JSON frameworks.
 
